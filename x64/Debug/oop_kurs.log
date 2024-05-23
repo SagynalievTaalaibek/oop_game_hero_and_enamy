@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Programming\oop\oop_kurs\main.cpp(258,1): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  oop_kurs.vcxproj -> C:\Programming\oop\oop_kurs\x64\Debug\oop_kurs.exe
